@@ -1,0 +1,25 @@
+#container {
+    text-align: center;
+    margin: 0 auto 0 auto;
+    width: fit-content;
+    border: solid 1px;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 550px;
+    height: 200px;
+}
+
+#newquotebtn {
+    border: solid 1px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    height: 30px;
+}
+
+#quote-area{
+    height: 50px;
+    margin: 30px;
+}

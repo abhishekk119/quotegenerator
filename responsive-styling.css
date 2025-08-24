@@ -11,12 +11,13 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: #1a1a1a;
 }
 
 #newquotebtn {
     border: solid 1px;
     border-radius: 5px;
-    background-color: green;
+    background-color: gray;
     color: white;
     height: 30px;
     margin-top: 20px;
@@ -39,10 +40,12 @@ body {
 #quotes {
     font-size: 1.2rem;
     margin-bottom: 10px;
+    color: white;
 }
 
 #quote-author {
     font-style: italic;
+    color: white;
 }
 
 /* Responsive adjustments */

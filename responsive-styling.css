@@ -1,17 +1,17 @@
 #container {
-    text-align: center;
-    margin: 50px auto;
+    align-items: center;
     border: solid 1px;
     border-radius: 8px;
-    padding: 20px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
     width: 550px;
     max-width: 90%;
     min-height: 200px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     background-color: #1a1a1a;
+    text-align: center;
+    margin: 0 auto;
 }
 
 #newquotebtn {
